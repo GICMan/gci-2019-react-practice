@@ -1,6 +1,11 @@
 {
   "name": "react-practice",
   "version": "0.1.0",
+  "description": "A practice/demo react application for GCI 2019",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GICMan/gci-2019-react-practice"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
